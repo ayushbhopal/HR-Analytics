@@ -58,17 +58,10 @@ The cleaned and consolidated data allowed for the creation of KPIs and visualiza
 - **Work Preferences**: Work-from-home vs. in-office ratios.
 - **Leave Analysis**: Frequency and types of leaves (e.g., Sick Leave, Work-Off).
 
-## Screenshots
-
-
 ## Results and Impact
 - **Streamlined Workflow**: Automated the cleaning process for all months, reducing manual effort.
 - **Enhanced Decision-Making**: Provided clear insights into attendance patterns and trends.
 - **Efficiency**: Saved the HR team significant time in generating reports and analyzing data.
 
-## Acknowledgments
-Special thanks to **Dhaval Patel** and **Hemanand Vadivel** for the guided project and Codebasics for providing a detailed walkthrough.
-
-## Project Resources
-- **Link to Project Playlist**: [YouTube Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuVQccZa7yFwK3ltoGQOWbM)
-- **Interactive Dashboard**: [NovyPro Link](https://www.novypro.com/project/atliq-hr-analytics)
+## Project
+- **Link to Project Dashboard**: [Power BI](https://app.powerbi.com/links/vzd1keSt_k?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
